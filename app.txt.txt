@@ -1,5 +1,5 @@
-print("hello world")
-Functionality Calculate Fees 
+print("Started task 1")
+Functionality Calculate Fees --> day2
 add
 commit
 push
