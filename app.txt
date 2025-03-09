@@ -1,0 +1,11 @@
+print("Started task 1")
+Functionality Calculate Fees --> day2
+adding one more changes to describe branching
+Renamed the file
+add
+commit
+push
+
+- git add 
+- git commit - m "message"
+- git push -u origin main
